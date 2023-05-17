@@ -81,18 +81,18 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'E-commerce Web App',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'E-commerce web Clone with all the main key feature and authentication.',
+      imageUrl: 'https://github.com/YASHSU/netflix-clone/blob/main/Screenshot%20(10).png',
+      link: 'https://codepen.io/yashsu/pen/OJwVLZG',
     },
     {
-      title: 'Project Name',
+      title: 'Auth app',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Auth app simulation project',
+      imageUrl: 'https://github.com/YASHSU/netflix-clone/blob/main/Screenshot%20(10).png',
+      link: 'https://codepen.io/yashsu/pen/QWByVQg',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
@@ -171,7 +171,7 @@ const config = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/yashsu/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
