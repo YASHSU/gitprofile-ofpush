@@ -4,7 +4,7 @@ import '@arifszn/gitprofile/dist/style.css';
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'yashsu', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -13,29 +13,28 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'suyash-chandrakar-982aa3171',
+    twitter: 'Yashuchandrakar',
+    mastodon: '',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'suyashchandrakar03',
+    dev: 'yashsu',
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://suyashchandrakar.carrd.co/',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'chandrakarsuyash@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'React',
     'JavaScript',
     'React.js',
     'Node.js',
@@ -44,26 +43,17 @@ const config = {
     'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Tailwind CSS',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Freelancer.co',
+      position: 'Freelance Web App Developer',
+      from: 'January 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://freelancer.com',
     },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
+    
   ],
   /* certifications: [
     {
@@ -75,16 +65,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
+      institution: 'Government Engineering College Bilaspur',
       degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      from: '2018',
+      to: '2022',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'SSM HS School',
+      degree: 'HSC School',
+      from: '2016',
+      to: '2017',
     },
   ],
 
@@ -108,7 +98,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'yashsu', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
